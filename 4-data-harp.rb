@@ -1,4 +1,5 @@
 # arpeggiate incoming osc data stream, normalized to 0-15
+# requires separate input file: see test.py at https://github.com/asanspace/planet-hack-2020
 
 cmaj = scale(:c2,:major,num_octaves: 5) # list of 36 notes
 dmaj = scale(:d2,:major,num_octaves: 5)
