@@ -1,3 +1,5 @@
+# drum samples
+
 sample :drum_tom_hi_hard
 sleep 1
 sample :drum_tom_hi_soft
