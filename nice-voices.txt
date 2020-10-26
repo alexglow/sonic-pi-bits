@@ -24,10 +24,6 @@ use_synth :chipnoise # demolish
 play 70
 sleep 1
 
-use_synth :cnoise # ksshhhh
-play 70
-sleep 1
-
 use_synth :dark_ambience
 play 70
 sleep 1
@@ -44,15 +40,7 @@ use_synth :dtri # good pan! hollow
 play 70
 sleep 1
 
-use_synth :dull_bell # off pitch
-play 70
-sleep 1
-
 use_synth :fm # electric piano
-play 70
-sleep 1
-
-use_synth :gnoise
 play 70
 sleep 1
 
@@ -68,34 +56,6 @@ use_synth :hoover # epic multisynth THX
 play 70
 sleep 1
 
-use_synth :mod_beep # vintage phone beep
-play 70
-sleep 1
-
-use_synth :mod_dsaw
-play 70
-sleep 1
-
-use_synth :mod_fm
-play 70
-sleep 1
-
-use_synth :mod_pulse
-play 70
-sleep 1
-
-use_synth :mod_saw
-play 70
-sleep 1
-
-use_synth :mod_sine
-play 70
-sleep 1
-
-use_synth :mod_tri
-play 70
-sleep 1
-
 use_synth :noise
 play 70
 sleep 1
@@ -105,10 +65,6 @@ play 70
 sleep 1
 
 use_synth :pluck # koto
-play 70
-sleep 1
-
-use_synth :pnoise
 play 70
 sleep 1
 
@@ -132,27 +88,11 @@ use_synth :sine
 play 70
 sleep 1
 
-use_synth :sound_in
-play 70
-sleep 1
-
-use_synth :sound_in_stereo
-play 70
-sleep 1
-
 use_synth :square
 play 70
 sleep 1
 
 use_synth :subpulse # low pretty multi-harmonic
-play 70
-sleep 1
-
-use_synth :supersaw # high tingly
-play 70
-sleep 1
-
-use_synth :tb303 # sharp!
 play 70
 sleep 1
 
